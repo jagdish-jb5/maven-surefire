@@ -89,7 +89,7 @@
     <mavenVersion>3.0</mavenVersion>
     <!-- <shadedVersion>3.0.0-M2</shadedVersion> commented out due to https://issues.apache.org/jira/browse/MRELEASE-799 -->
     <commonsLang3Version>3.8.1</commonsLang3Version>
-    <commonsIoVersion>2.6</commonsIoVersion>
+    <commonsIoVersion>2.7</commonsIoVersion>
     <doxiaVersion>1.9</doxiaVersion>
     <doxiaSitetoolsVersion>1.9.1</doxiaSitetoolsVersion>
     <!-- maven-shared-utils:3.2.0+ another behavior - broke Surefire performance - end of subprocess notification not arrived in ForkStarter -->
