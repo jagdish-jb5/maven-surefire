@@ -93,7 +93,7 @@
     <doxiaVersion>1.9</doxiaVersion>
     <doxiaSitetoolsVersion>1.9.1</doxiaSitetoolsVersion>
     <!-- maven-shared-utils:3.2.0+ another behavior - broke Surefire performance - end of subprocess notification not arrived in ForkStarter -->
-    <mavenSharedUtilsVersion>3.1.0</mavenSharedUtilsVersion>
+    <mavenSharedUtilsVersion>3.3.3</mavenSharedUtilsVersion>
     <powermockVersion>2.0.2</powermockVersion>
     <jacocoVersion>0.8.4</jacocoVersion>
     <maven.surefire.scm.devConnection>scm:git:https://gitbox.apache.org/repos/asf/maven-surefire.git</maven.surefire.scm.devConnection>
